@@ -32,4 +32,4 @@ The user can generate a new lottery number by tapping the floating action button
 Acknowledgments
 The Flutter team for providing an amazing framework for building cross-platform mobile applications.
 ## Contact
-If you have any questions or inquiries, you can reach me at shahzadarif545#gmail.com.
+If you have any questions or inquiries, you can reach me at shahzadarif545@gmail.com.
